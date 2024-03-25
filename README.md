@@ -45,7 +45,15 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 </div>   
 
 <div align="center">
-<a href = "https://wa.me/5582997223559" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp" ></a>
+<a href="https://wa.me/5582997223559" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/eugeniobrilhante" target="_blank"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"></a>
+<a href="https://discord.com/channels/@eugeniobrilhante" target="_blank"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord"></a>
+<a href="mailto:eugeniobrilhante@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook"></a>
+
+
+    
+<a href = "https://wa.me/5582997223559"><img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp" target="_blank"></a>
 <a href = "https://www.instagram.com/eugeniobrilhante"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" target="_blank"></a>
 <a href = "https://discord.com/channels/@eugeniobrilhante"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord" target="_blank"></a>
