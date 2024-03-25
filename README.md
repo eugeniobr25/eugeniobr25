@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=7303C0&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Eugenio+Brilhante.;Seja+bem-vindo+ao+meu+GitHub!+;%C3%89+um+prazer+receb%C3%AA-lo(a))](https://git.io/typing-svg)
 
+
+
+
 ````Java
 public class Person {
 
@@ -40,6 +43,14 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&count_private=true&hide_border=true&title_color=7303c0&icon_color=7303c0&text_color=87CEFA&bg_color=0d1117" alt="Github Stats" />
 </div>   
+
+<div align="center">
+<a href = "https://wa.me/5582997223559"><img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp" target="_blank"></a>
+<a href = "https://www.instagram.com/eugeniobrilhante"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" target="_blank"></a>
+<a href = "linkedin.com/in/eugênio-brilhante-moraes-lima-010957276"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" target="_blank"></a>
+<a href = "https://discord.com/channels/@eugeniobrilhante"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord" target="_blank"></a>
+<a href = "mailto:eugeniobrilhante@hotmail.com"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
