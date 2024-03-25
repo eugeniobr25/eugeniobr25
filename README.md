@@ -47,7 +47,7 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 <div align="center">
 <a href = "https://wa.me/5582997223559"><img src="https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp" target="_blank"></a>
 <a href = "https://www.instagram.com/eugeniobrilhante"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram" target="_blank"></a>
-<a href = "linkedin.com/in/eugênio-brilhante-moraes-lima-010957276"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" target="_blank"></a>
 <a href = "https://discord.com/channels/@eugeniobrilhante"><img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord" target="_blank"></a>
 <a href = "mailto:eugeniobrilhante@hotmail.com"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook" target="_blank"></a>
 </div>
