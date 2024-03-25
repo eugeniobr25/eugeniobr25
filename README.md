@@ -52,10 +52,10 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 [![Discord](https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord)](https://discord.com/channels/@eugeniobrilhante)
 [![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com)
 
-
-
 </div>
-
+<div align="center">
+   <a href=https://www.codewars.com/users/eugeniobr25><img src="https://www.codewars.com/users/eugeniobr25/badges/micro" width="200" /></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
 
