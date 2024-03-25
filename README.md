@@ -59,6 +59,17 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 [![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com)
 
 
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=whatsapp)](https://wa.me/5582997223559){:target="_blank"}
+
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/eugeniobrilhante){:target="_blank"}
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/){:target="_blank"}
+
+[![Discord](https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord)](https://discord.com/channels/@eugeniobrilhante){:target="_blank"}
+
+[![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com){:target="_blank"}
+
+
 </div>
 
 
