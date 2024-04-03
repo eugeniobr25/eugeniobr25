@@ -46,18 +46,18 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 
 <div align="center">
     
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-808080?style=for-the-badge&logo=whatsapp)](https://wa.me/5582997223559)
-[![Instagram](https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram)](https://www.instagram.com/eugeniobrilhante)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/)
-[![Discord](https://img.shields.io/badge/Discord-808080?style=for-the-badge&logo=discord)](https://discord.com/channels/@eugeniobrilhante)
-[![Email](https://img.shields.io/badge/email-808080?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-191919?style=for-the-badge&logo=whatsapp)](https://wa.me/5582997223559)
+[![Instagram](https://img.shields.io/badge/Instagram-191919?style=for-the-badge&logo=instagram)](https://www.instagram.com/eugeniobrilhante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eug%C3%AAnio-brilhante-moraes-lima-010957276/)
+[![Discord](https://img.shields.io/badge/Discord-191919?style=for-the-badge&logo=discord)](https://discord.com/channels/@eugeniobrilhante)
+[![Email](https://img.shields.io/badge/email-0:fdeff9,25:ec38bc,80:7303c0,100:03001e?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com)
 
 </div>
 <div align="center">
    <a href=https://www.codewars.com/users/eugeniobr25><img src="https://www.codewars.com/users/eugeniobr25/badges/micro" width="200" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fd,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
 
 <div align="end">
 <p align="centre"><b>Contagem de visitantes</b> <img align="center" src="https://profile-counter.glitch.me/{eugeniobr25}/count.svg" /></p>  
