@@ -21,7 +21,7 @@ public class Person {
                                         agilidade e versatilidade,
                                         resiliencia e facil adaptação";
 
-}
+};
 ````
 <div align="center"> 
 
