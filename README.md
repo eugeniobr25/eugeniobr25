@@ -63,7 +63,7 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fd,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
 
 <div align="end">
 <p align="centre"><b>Contagem de visitantes</b> <img align="center" src="https://profile-counter.glitch.me/{eugeniobr25}/count.svg" /></p>  
