@@ -23,14 +23,24 @@ public class Person {
 
 }
 ````
+<div align="center"> 
 
 ### Quem sou eu!
+
+</div>
 
 Com uma década de experiência em gastronomia, liderei efetivamente equipes de cozinha e de serviço. Minha função abrangia o estabelecimento e padronização de processos operacionais e ofertas de produtos, treinamento de equipe e manutenção da supervisão das operações diárias. Minha dedicação inabalável tem como objetivo consistente melhorar a experiência do cliente por meio da entrega de excelência.
 
 Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e ferramentas de programação. Estou buscando proativamente novas perspectivas de carreira como Desenvolvedor, ansioso para fazer contribuições responsáveis ​​ao mercado global. Meu compromisso permanece firme em minha jornada de auto aperfeiçoamento contínuo, refinando incansavelmente minhas habilidades para oferecer consistentemente excelência em todos os empreendimentos.
 
 <div align="center">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobr25&layout=compact&hide_border=true&title_color=7303c0&text_color=87CEFA&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&count_private=true&hide_border=true&title_color=7303c0&icon_color=7303c0&text_color=87CEFA&bg_color=0d1117" alt="Github Stats" />
+</div>
+<div align="center"> 
+<a href=https://www.codewars.com/users/eugeniobr25><img src="https://www.codewars.com/users/eugeniobr25/badges/micro" width="200" /></a>
+</div>
+<div align="center"> 
     
 ### Tecnologias e Ferramentas 
 
@@ -41,7 +51,6 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40"/>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&count_private=true&hide_border=true&title_color=7303c0&icon_color=7303c0&text_color=87CEFA&bg_color=0d1117" alt="Github Stats" />
 </div>   
 
 <div align="center">
@@ -52,9 +61,6 @@ Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e
 [![Discord](https://img.shields.io/badge/Discord-191919?style=for-the-badge&logo=discord)](https://discord.com/channels/@eugeniobrilhante)
 [![Email](https://img.shields.io/badge/email-191919?style=for-the-badge&logo=microsoft-outlook)](mailto:eugeniobrilhante@hotmail.com)
 
-</div>
-<div align="center">
-   <a href=https://www.codewars.com/users/eugeniobr25><img src="https://www.codewars.com/users/eugeniobr25/badges/micro" width="200" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fd,25:ec38bc,80:7303c0,100:03001e&height=120&section=footer"/>
