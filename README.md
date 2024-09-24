@@ -29,9 +29,15 @@ public class Person {
 
 </div>
 
-Com uma década de experiência em gastronomia, liderei efetivamente equipes de cozinha e de serviço. Minha função abrangia o estabelecimento e padronização de processos operacionais e ofertas de produtos, treinamento de equipe e manutenção da supervisão das operações diárias. Minha dedicação inabalável tem como objetivo consistente melhorar a experiência do cliente por meio da entrega de excelência.
+Sou um profissional com ampla experiência em gestão operacional e liderança de equipes, atualmente em transição para a área de desenvolvimento de software, com foco no ecossistema Java. Minha trajetória é marcada por resiliência, adaptabilidade e uma constante busca por superar expectativas, sempre mantendo altos padrões éticos e de qualidade.
 
-Atualmente, meu foco está voltado para a aquisição e domínio de linguagens e ferramentas de programação. Estou buscando proativamente novas perspectivas de carreira como Desenvolvedor, ansioso para fazer contribuições responsáveis ​​ao mercado global. Meu compromisso permanece firme em minha jornada de auto aperfeiçoamento contínuo, refinando incansavelmente minhas habilidades para oferecer consistentemente excelência em todos os empreendimentos.
+Ao longo de minha carreira, atuei em posições de liderança no setor alimentício, onde gerenciei operações complexas, desenvolvi e treinei equipes, implementei melhorias operacionais e trabalhei para alcançar resultados mensuráveis, como redução de custos e aumento da eficiência. Utilizando ferramentas como Excel para monitoramento e controle de operações, sempre me esforcei para criar ambientes de trabalho colaborativos e eficientes.
+
+Estou aplicando essas habilidades de gestão e minha paixão por tecnologia na minha transição para o desenvolvimento de software. Atualmente, estou imerso no estudo de Java, Angular, práticas de código limpo, segurança e DevOps, com o objetivo de me tornar um desenvolvedor full stack. Tenho me dedicado intensamente a cursos e projetos práticos, integrando minha experiência prévia com novos conhecimentos técnicos para entregar soluções inovadoras e de alta qualidade.
+
+Minha abordagem é orientada para resultados, com foco em resolver problemas complexos de forma eficiente e criativa. Estou sempre em busca de aprender algo novo e aplicar esse aprendizado de forma prática e estratégica, tanto no desenvolvimento de software quanto na gestão de projetos.
+
+Estou à procura de oportunidades que me permitam unir minhas habilidades de liderança e minha crescente expertise técnica para criar valor e impacto positivo. Se você procura um profissional comprometido, resiliente, e com uma paixão inabalável por desafios e inovação, vamos conversar. Estou pronto para agregar valor ao próximo desafio!
 
 <div align="center">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobr25&layout=compact&hide_border=true&title_color=7303c0&text_color=87CEFA&bg_color=0d1117" />
