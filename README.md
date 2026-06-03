@@ -39,10 +39,6 @@ Minha abordagem é orientada para resultados, com foco em resolver problemas com
 
 Estou à procura de oportunidades que me permitam unir minhas habilidades de liderança e minha crescente expertise técnica para criar valor e impacto positivo. Se você procura um profissional comprometido, resiliente, e com uma paixão inabalável por desafios e inovação, vamos conversar. Estou pronto para agregar valor ao próximo desafio!
 
-<div align="center">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniobr25&layout=compact&hide_border=true&title_color=7303c0&text_color=87CEFA&bg_color=0d1117" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eugeniobr25&show_icons=true&count_private=true&hide_border=true&title_color=7303c0&icon_color=7303c0&text_color=87CEFA&bg_color=0d1117" alt="Github Stats" />
-</div>
 <div align="center"> 
 <a href=https://www.codewars.com/users/eugeniobr25><img src="https://www.codewars.com/users/eugeniobr25/badges/micro" width="200" /></a>
 </div>
